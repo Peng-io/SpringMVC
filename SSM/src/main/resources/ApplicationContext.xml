@@ -9,5 +9,4 @@
     <import resource="spring-mybatis.xml"/>
     <import resource="spring-service.xml"/>
 
-
 </beans>

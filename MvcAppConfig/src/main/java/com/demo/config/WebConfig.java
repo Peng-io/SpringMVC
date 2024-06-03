@@ -39,5 +39,5 @@ public class WebConfig implements WebMvcConfigurer {
         messageConverter.setFastJsonConfig(fastJsonConfig);
         converters.add(messageConverter);
     }
-    
+
 }
